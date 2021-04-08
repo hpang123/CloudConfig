@@ -1,0 +1,4 @@
+#app.version: 1.0
+
+#common property for eureka url for all clients using eureka registry
+eureka.client.serviceUrl.defaultZone=http://localhost:8010/eureka/
